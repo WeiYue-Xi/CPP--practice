@@ -1,0 +1,27 @@
+# IDE local state
+.idea/
+
+# CMake output and local build directories
+cmake-build-*/
+build/
+build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Testing/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+*.ilk
+
+# Local publication copies
+.publish/
