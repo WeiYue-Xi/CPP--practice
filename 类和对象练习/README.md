@@ -10,7 +10,7 @@
 类和对象练习/
 ├── README.md
 ├── ObjectAndClass/
-│   ├── ClassAndObject-exercise.md
+│   ├── README.md
 │   ├── CMakeLists.txt
 │   ├── main.cpp
 │   └── example/
@@ -24,7 +24,7 @@
     └── README.md
 ```
 
-- [练习文档](ObjectAndClass/ClassAndObject-exercise.md)：类与对象专题题目及当前作答。
+- [练习文档](ObjectAndClass/README.md)：类与对象专题题目及当前作答。
 - [程序入口](ObjectAndClass/main.cpp)：各个类的练习调用。
 - [Student](ObjectAndClass/example/Student.h)：私有数据、公有接口、const 学号、初始化列表、const 成员函数和类外定义。
 - [Point](ObjectAndClass/example/Point.h)：二维坐标与相等运算符重载。
